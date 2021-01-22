@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Test" type="JAVA" />
       <mapping pattern="20210122" type="PLAIN_TEXT" />
+      <mapping pattern="createdBy3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
