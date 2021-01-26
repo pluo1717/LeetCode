@@ -8,6 +8,7 @@
       <mapping pattern="20210122" type="PLAIN_TEXT" />
       <mapping pattern="createdBy0125" type="PLAIN_TEXT" />
       <mapping pattern="createdBy3" type="PLAIN_TEXT" />
+      <mapping pattern="Application" type="XML" />
     </extensionMap>
   </component>
 </application>
