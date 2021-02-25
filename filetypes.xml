@@ -8,6 +8,7 @@
       <mapping pattern="createdBy4444" type="PLAIN_TEXT" />
       <mapping pattern="createdBy0125" type="PLAIN_TEXT" />
       <mapping pattern="goods" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="createdBy3" type="PLAIN_TEXT" />
       <mapping pattern="goods.tfl" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
