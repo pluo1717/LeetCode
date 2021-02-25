@@ -12,6 +12,7 @@
       <mapping pattern="createdBy3" type="PLAIN_TEXT" />
       <mapping pattern="goods.tfl" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping ext="propertities" type="PLAIN_TEXT" />
       <mapping pattern="Application" type="XML" />
     </extensionMap>
   </component>
